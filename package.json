@@ -1,0 +1,19 @@
+{
+  "name": "demo_exploring_node_as_a_command_line_tool",
+  "version": "1.0.0",
+  "description": "demo_exploring_node_as_a_command_line_tool ==========================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikingeducation/demo_exploring_node_as_a_command_line_tool.git"
+  },
+  "author": "foo@bar.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikingeducation/demo_exploring_node_as_a_command_line_tool/issues"
+  },
+  "homepage": "https://github.com/vikingeducation/demo_exploring_node_as_a_command_line_tool#readme"
+}
