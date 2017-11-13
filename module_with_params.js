@@ -6,7 +6,7 @@ var _langs = {
 };
 
 module.exports = function(config) {
-  var _config = config;
+  _config = config;
 
   var moduleWithParams = {};
 
